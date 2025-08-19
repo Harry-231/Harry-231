@@ -197,13 +197,9 @@ current_focus = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎵 Spotify Playing
 
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26unkbkuzaalqnjyfbq7pjyfm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 💭 Random Dev Quote
 
